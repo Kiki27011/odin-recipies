@@ -1,0 +1,18 @@
+/*index.html*/
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: blanchedalmond;
+}
+.title{
+    font-size: xx-large;
+    text-align: center;
+}
+.recipies{
+    font-size: x-large;
+    text-align: center;
+    list-style: none;
+}
+
+/*lasagna*/
